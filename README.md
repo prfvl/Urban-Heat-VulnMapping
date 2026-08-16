@@ -44,7 +44,7 @@ prfvl-urban-heat-vulnmapping/
         └── hospitals_raster.tif        # Hospital point raster
 ```
 
-## Limitations & Future Work
+## Limitations and Future Work
 
 - **Building footprints** were planned as an additional layer (finer-grained proxy for built-up density and heat retention) using Geofabrik's Kerala OSM extract, but the file size was too large to process within the competition's time and hardware constraints. This is earmarked as a future improvement.
 - Parks and vegetation layers were finalized under time pressure and could benefit from further refinement and validation.
