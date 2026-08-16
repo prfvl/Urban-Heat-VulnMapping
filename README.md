@@ -52,7 +52,7 @@ prfvl-urban-heat-vulnmapping/
 
 ## Team
 
-Built as part of a team effort for the GIS Mapathon (NEST Digital). GIS/spatial analysis pipeline built by [prfvl]; StoryMap and presentation built by teammates.
+Built as part of a team effort for the GIS Mapathon (NEST Digital). GIS/spatial analysis pipeline built by [prfvl]; StoryMap, presentation and frontend built by [merin-07], [sarj29] and [lakshmisiju1111git].
 
 ## Tools Used
 
